@@ -1,1 +1,1 @@
-# Hand-Gestures-Project-OpenCV
+# OpenCV
